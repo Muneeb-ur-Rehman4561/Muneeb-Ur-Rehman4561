@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="assets/terminal-card.svg" alt="Terminal Card" width="400"/></td>
-    <td valign="top"><img src="assets/info-card.svg" alt="Info Card" width="500"/></td>
+    <td valign="top"><img src="assets/terminal-card.svg" alt="ASCII Portrait" width="540"/></td>
+    <td valign="top"><img src="assets/info-card.svg" alt="Info Card" width="400"/></td>
   </tr>
 </table>
 
