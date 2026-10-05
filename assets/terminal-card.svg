@@ -18,54 +18,50 @@
 <text x="420.0" y="19.0" fill="#7d8590" font-size="12" text-anchor="middle">Muneeb-Ur-Rehman4561@github: ~$ ./portrait.sh</text>
 <!-- ASCII art rows -->
 <clipPath id="r0"><rect x="20" y="37.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.000s" dur="0.11s" fill="freeze"/></rect></clipPath>
-<text x="20" y="48" fill="#c9d1d9" font-size="14">%</text>
-<text x="20" y="63" fill="#c9d1d9" font-size="14">%</text>
-<text x="20" y="78" fill="#c9d1d9" font-size="14">%</text>
-<text x="20" y="93" fill="#c9d1d9" font-size="14">%</text>
-<text x="20" y="108" fill="#c9d1d9" font-size="14">%                                   @#@</text>
-<text x="20" y="123" fill="#c9d1d9" font-size="14">%                            @@@#%%###@@@###@</text>
-<text x="20" y="138" fill="#c9d1d9" font-size="14">%                         @#%%#@@ ###     #S%#@</text>
-<text x="20" y="153" fill="#c9d1d9" font-size="14">%                      @#%%####@@           @@@#</text>
-<text x="20" y="168" fill="#c9d1d9" font-size="14">%                     #%%%##%%%##@  @@@      #@@@</text>
-<text x="20" y="183" fill="#c9d1d9" font-size="14">%                    %%#%%%%%##@@@##@ @@     ##  %@</text>
-<text x="20" y="198" fill="#c9d1d9" font-size="14">%                   #%###%%####@@@@  @ @         @%</text>
-<text x="20" y="213" fill="#c9d1d9" font-size="14">%                  #%@########@#@@@             @#%S#</text>
-<text x="20" y="228" fill="#c9d1d9" font-size="14">%                  #@@@#@@@@@  @           @     @####</text>
-<text x="20" y="243" fill="#c9d1d9" font-size="14">%                  #  @@        @#%S*+++=+*%#@@   @###</text>
-<text x="20" y="258" fill="#c9d1d9" font-size="14">%                  %@        @%*+%@@#%***=****S#   @#%@</text>
-<text x="20" y="273" fill="#c9d1d9" font-size="14">%                  %#      #S**S#        #+==++S@    ##</text>
-<text x="20" y="288" fill="#c9d1d9" font-size="14">S%%%%@             %#    ####              %--=+S@   @#</text>
-<text x="20" y="303" fill="#c9d1d9" font-size="14">S*%*S              #@   #@  @S*SS%#%#    ###*=**=+#  ##</text>
-<text x="20" y="318" fill="#c9d1d9" font-size="14">S*@%*              @#  %*%@S*##SS*SS*%@%**%%%%%%%*%  #%</text>
-<text x="20" y="333" fill="#c9d1d9" font-size="14">SSS@S             @S#@SS**%S%###%**=*##S#S*S++**S## %#@       @@@#@</text>
-<text x="20" y="348" fill="#c9d1d9" font-size="14">%                 %*@ #S@ @#@*#***++#%@#%*S%##%#S%S@%S        #-=:%</text>
-<text x="20" y="363" fill="#c9d1d9" font-size="14">%                 %@ #%S@  ## #%SSS@##  %S*+*SSS+++S#%%@      #=-=@      S+%</text>
-<text x="20" y="378" fill="#c9d1d9" font-size="14">%                  @ ##S   @###%%%#%#   ***=+==+++=S#%%        +:*       =:+</text>
-<text x="20" y="393" fill="#c9d1d9" font-size="14">%                     #S       ####     #==*#SS##*-*#%#        %*#       S-=</text>
-<text x="20" y="408" fill="#c9d1d9" font-size="14">%                   @@%S           @@#   ++S@    +=*%#                    ##</text>
-<text x="20" y="423" fill="#c9d1d9" font-size="14">%                     %S           #%S+*S%S+#  S-=+S#@</text>
-<text x="20" y="438" fill="#c9d1d9" font-size="14">%                     @*#     S+#%%%**===SS=+S*-=++SS          @+@</text>
-<text x="20" y="453" fill="#c9d1d9" font-size="14">%                      S=@    %**+SSS***+*SS#%*-=+S%#          @-S</text>
-<text x="20" y="468" fill="#c9d1d9" font-size="14">%                      @==%@   @####@%++S*S%S**-+S%#           S-=@</text>
-<text x="20" y="483" fill="#c9d1d9" font-size="14">%                       #+-#        %%++*+*+---+*%%@           @-:S  @%%</text>
-<text x="20" y="498" fill="#c9d1d9" font-size="14">%                        #S+S       S+*SS*+===**%##            #--+  %=:+S*-</text>
-<text x="20" y="513" fill="#c9d1d9" font-size="14">%                        @#%+=*%     @#%*+===SS###             *:--#   #S++*</text>
-<text x="20" y="528" fill="#c9d1d9" font-size="14">%                       @#@@%S*+*SS+*%##=+=+%#@@#              %**%@</text>
-<text x="20" y="543" fill="#c9d1d9" font-size="14">%                      @%   #**##%%S*****%#@  @#%%@            #*</text>
-<text x="20" y="558" fill="#c9d1d9" font-size="14">%                  @@@###@  ##+=*%@          @##@%@@           S.#</text>
-<text x="20" y="573" fill="#c9d1d9" font-size="14">%              @##########@  #*---=*S%%%###%SSS%@% @%%#@@      %.*</text>
-<text x="20" y="588" fill="#c9d1d9" font-size="14">%         @##%##@    @####@   %+=-==+***SSS*+**@ %  @#%#####@@ @%#</text>
-<text x="20" y="603" fill="#c9d1d9" font-size="14">%    @##%%%##@@      @@###@    @S=-=++****+==+#  @        @##%#*%@@</text>
-<text x="20" y="618" fill="#c9d1d9" font-size="14">%@%%SS%%##@          @@###@      @S===++===-+#   @@             ######@@#@@@</text>
-<text x="20" y="633" fill="#c9d1d9" font-size="14">SS%%%##@@@@          @@###@@     @%%*=--++-*#    #@                 @##%**+*</text>
-<text x="20" y="648" fill="#c9d1d9" font-size="14">%######@@             @@####   @%S%  %*S #%S**S@ #@                      @#S</text>
-<text x="20" y="663" fill="#c9d1d9" font-size="14">%@@##@@@               @####@#%S#     @SS#+*-=*# %@</text>
-<text x="20" y="678" fill="#c9d1d9" font-size="14">%@ @@@@@               @###@%#@#       ##**#+@  #*#</text>
-<text x="20" y="693" fill="#c9d1d9" font-size="14">%@  @@@@               @### S@             *S   #S@</text>
-<text x="20" y="708" fill="#c9d1d9" font-size="14">%@  @@@@               @@## *#          # S*    ###        @</text>
-<text x="20" y="723" fill="#c9d1d9" font-size="14">%@@  @@@       @        @@#@S#          @S%     %@#    @###%#</text>
-<text x="20" y="738" fill="#c9d1d9" font-size="14">%@   @@@      @@@       @@#@##         #S@       @#       ###</text>
-<text x="20" y="753" fill="#c9d1d9" font-size="14">%     @@       @@@      @@#@@@        @#         @#</text>
+<text x="20" y="48" fill="#c9d1d9" font-size="12">.',..'.....',........',...........'               ..' ..</text>
+<text x="20" y="61" fill="#c9d1d9" font-size="12">.',..'.....',.........,...........'               ..''.</text>
+<text x="20" y="74" fill="#c9d1d9" font-size="12">.',..'.....':.........,'..........'               .',,</text>
+<text x="20" y="87" fill="#c9d1d9" font-size="12">.':..'.....':.........,'..........'.      ...'.....',,</text>
+<text x="20" y="100" fill="#c9d1d9" font-size="12">..:..'......:.........,'.......  ...     .',,,,','',,,</text>
+<text x="20" y="113" fill="#c9d1d9" font-size="12">..:'........:'........,,.      .'.     .',::;::::,,,,,</text>
+<text x="20" y="126" fill="#c9d1d9" font-size="12">..,'........:'........'. .,iS%#@@##%r:.  .,:,,'.   ..,</text>
+<text x="20" y="139" fill="#c9d1d9" font-size="12">..,,........,'......  .;s#@@@#%#@@@@@@#s;.',''      .,     .......</text>
+<text x="20" y="152" fill="#c9d1d9" font-size="12">..,, .......,,....  'r#@@@@@@#%#@@@@@@@%@%'.' '.    .,.     .....</text>
+<text x="20" y="165" fill="#c9d1d9" font-size="12">..',........',..  i%@@#%%%@@@@@@@@@@@@@@#@@: ..    .',.     ...''.</text>
+<text x="20" y="178" fill="#c9d1d9" font-size="12">..',........',. '%@@%#%%%#%%#@@@@@@@@@@@@#@@i      .',.  .....',,,</text>
+<text x="20" y="191" fill="#c9d1d9" font-size="12">..',........', .#@%%%%S%%%#@@#@####@@@@@@SS@@i    ..',.  .'.  ',,'</text>
+<text x="20" y="204" fill="#c9d1d9" font-size="12">..',........', s@#%%%S%##@###%##@@@#@@@@@##@@@:   .'','   '. ..','</text>
+<text x="20" y="217" fill="#c9d1d9" font-size="12">...,..........;@#%##S#@###@@#@@@###@@@@@@#@@@@s    .','  .''..',,'</text>
+<text x="20" y="230" fill="#c9d1d9" font-size="12">...,........ '@@%#@%%@##%##@@@@@@@@@@@@@@@@@@@#i.  '','  .''''',,,</text>
+<text x="20" y="243" fill="#c9d1d9" font-size="12">...,........ r@#####@%%@@#%####@@@@@@@@@@@@@#%###; '',,  .',,,,,::</text>
+<text x="20" y="256" fill="#c9d1d9" font-size="12">...,'....... %@@###@@#@@@@@@@@@@@@@@@@@#@@@@@@##@@..',,  .'',,',,,</text>
+<text x="20" y="269" fill="#c9d1d9" font-size="12">...,'....... #@@##@@#@@@@@@@@%SsssrrrriS@@@@@@@%%@: ..,  ''''''',,</text>
+<text x="20" y="282" fill="#c9d1d9" font-size="12">...,'....... %@@@@@@@@@@@@%s;,,:;i;;;i%%sSS@@@@##@r ..,. ',,,,,,,,</text>
+<text x="20" y="295" fill="#c9d1d9" font-size="12">...,,....... %@@@@@@@@@@Ssi:::,,:;;;:sS;rssS@@@@#@S  .,. ','...',,</text>
+<text x="20" y="308" fill="#c9d1d9" font-size="12">...',....... %@@@@@@@@%i:;;::,,,:::::i;irrrs#@@@@@%  .,. '.    .''</text>
+<text x="20" y="321" fill="#c9d1d9" font-size="12">...',....... S@@@@@@S,,,,',,'''',,,:::;;rirr%@@@@@#  ',. '.    ..'</text>
+<text x="20" y="334" fill="#c9d1d9" font-size="12">''.',....... s@@@@@r ...':'..  ..',,,,,::;iiis@@@@S  .,. ''. ..'''</text>
+<text x="20" y="347" fill="#c9d1d9" font-size="12">'''',....... ;@@@@r ..,s%#%S%Si:,,,,,:;iirSS;,S@@@S ..,. ',,,',,,,</text>
+<text x="20" y="360" fill="#c9d1d9" font-size="12">'''',.''.... :@@@#,i ;Sri;:r%###i'::r#@##@###rr#@@s .''' .,:::::,'</text>
+<text x="20" y="373" fill="#c9d1d9" font-size="12">'''',.''.... .s@ssSs:si,'::;;iii%SS##sSi;rrs%##@#@r .''' .,:::;;,'</text>
+<text x="20" y="386" fill="#c9d1d9" font-size="12">'''','''..' rs.:r@;',s,ri'@@S%S'rr %%ssSsssss#i@%s. .''' .':i;;i:'</text>
+<text x="20" y="399" fill="#c9d1d9" font-size="12">'''','''....ri'.:#.''r,;;,sSrsr'i: sS,,s@@%@%#rs@r' .''' .':iiii:'</text>
+<text x="20" y="412" fill="#c9d1d9" font-size="12">'''.''.'''..i:.'r%.,'ii';;;;i:',;..:%ssrSSS%sri;@%@;.,,' .',iii;:'</text>
+<text x="20" y="425" fill="#c9d1d9" font-size="12">''''''.'....;::;;S.''.i;,,,,'':s' ',S#rirssi;;sr#S@; ..,  .,iii;:,</text>
+<text x="20" y="438" fill="#c9d1d9" font-size="12">'''','.''.'..;,.'s'''..:;;ii;ii:...:sSsriiiirr;i#S@,  .:  .';r;;:,</text>
+<text x="20" y="451" fill="#c9d1d9" font-size="12">''''''.''....:' ;s.,''....'',;:''..'isr::;i;;;:i#@%   ', .'';;;;;,</text>
+<text x="20" y="464" fill="#c9d1d9" font-size="12">''''''.'.....';.is.,'''.'''':i. . .':;;i',:::;ir%@,   ', .'',::;;:</text>
+<text x="20" y="477" fill="#c9d1d9" font-size="12">''''''.''.....,'rs.,,'''',,::,isr:::rSr#,,:;;;rr@%   .', .'',::;:,</text>
+<text x="20" y="490" fill="#c9d1d9" font-size="12">''''''.'''..... iS.,,,,,:::,'',i:;SSS@%i:::;iirs@:   .': .'',;::::</text>
+<text x="20" y="503" fill="#c9d1d9" font-size="12">''''',.........',S,',,,,:i;ii;;;;rr;s#r:::;iirss@.  ..':..'.,i;:::</text>
+<text x="20" y="516" fill="#c9d1d9" font-size="12">''''',.........' rr,::,,,i#@r:;:,;;;isS%%sr;irs%#.  .'',..'',ii,''</text>
+<text x="20" y="529" fill="#c9d1d9" font-size="12">''''','.'.'....' :S;,;;,';sissssSSsSSSs%@@#:isS@'    '','.'',ir:''</text>
+<text x="20" y="542" fill="#c9d1d9" font-size="12">''''','.'''....'. Si:;:,',,,'':::;s;rs##srr;rS#%  .  '','.'':rri:,</text>
+<text x="20" y="555" fill="#c9d1d9" font-size="12">''''','.'......'. ;%i;::::,''',::::,;rsi;;:isS@i .''''',','':i;;;:</text>
+<text x="20" y="568" fill="#c9d1d9" font-size="12">''''','.'......''  s%::::::,,,,iS####Sr;;;rss@#.',,,,,''.,,':iii;:</text>
+<text x="20" y="581" fill="#c9d1d9" font-size="12">''.'','........'.. .#%;::::::::;rS%%%siiisss#@: .'..   .,::,:iii;:</text>
+<text x="20" y="594" fill="#c9d1d9" font-size="12">.'..':,........'..  ,#S;;;:,,,,,,:::;;iirSS#@,         ',::,:iiii;</text>
+<text x="20" y="607" fill="#c9d1d9" font-size="12">''...',........''. ;,'#%rrr:,::;;::;;;;iS##@s ..      .',:;:;iii;:</text>
 <rect y="38.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.000s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.000s"/><set attributeName="opacity" to="0" begin="0.110s"/></rect>
 <clipPath id="r1"><rect x="20" y="52.0" height="15" width="0"><animate attributeName="width" from="0" to="800" begin="0.110s" dur="0.11s" fill="freeze"/></rect></clipPath>
 <rect y="53.0" width="8" height="13" fill="#c9d1d9" opacity="0"><animate attributeName="x" from="20" to="820" begin="0.110s" dur="0.11s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="0.110s"/><set attributeName="opacity" to="0" begin="0.220s"/></rect>
