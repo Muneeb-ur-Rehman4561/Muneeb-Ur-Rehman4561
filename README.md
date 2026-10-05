@@ -33,10 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muneeb-Ur-Rehman4561&theme=tokyonight" alt="Repos per language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muneeb-Ur-Rehman4561&theme=tokyonight" alt="Most commit language" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeb-Ur-Rehman4561&theme=tokyo-night&bg_color=0D1117&hide_border=true" alt="Activity graph" />
-</p>
-
 <!--
   Contribution snake: GitHub blocks apps from creating workflow files, so add
   .github/workflows/snake.yml manually (content is in the file Lara sent),
