@@ -36,7 +36,7 @@ jobs:
       - name: Fix dist ownership (snk Docker action writes files as root)
         run: sudo chown -R $USER:$USER dist/
 
-      - name: Remove stack bar and keep dots visible
+      - name: Remove stack bar from snake SVGs
         run: |
           python3 - <<'PYEOF'
           import re, glob
@@ -44,12 +44,8 @@ jobs:
               svg = open(f).read()
               n = svg.count('class="u ')
               svg = re.sub(r'<rect[^>]*class="u [^"]*"[^>]*/?>', '', svg)
-              # disable the per-cell "eaten" fade so dots stay visible while the snake travels
-              css_fix = ".c{animation-name:none!important}"
-              if css_fix not in svg:
-                  svg = svg.replace("</style>", css_fix + "</style>", 1)
               open(f, "w").write(svg)
-              print(f, "removed", n - svg.count('class="u '), "stack rect(s); dots kept:", css_fix in svg)
+              print(f, "removed", n - svg.count('class="u '), "stack rect(s)")
           PYEOF
 
       - uses: crazy-max/ghaction-github-pages@v4
