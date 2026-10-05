@@ -33,6 +33,18 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
+      - name: Remove stack bar from snake SVGs
+        run: |
+          python3 - <<'PYEOF'
+          import re, glob
+          for f in sorted(glob.glob("dist/*.svg")):
+              svg = open(f).read()
+              n = svg.count('class="u ')
+              svg = re.sub(r'<rect[^>]*class="u [^"]*"[^>]*/?>', '', svg)
+              open(f, "w").write(svg)
+              print(f, "removed", n - svg.count('class="u '), "stack rect(s)")
+          PYEOF
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
