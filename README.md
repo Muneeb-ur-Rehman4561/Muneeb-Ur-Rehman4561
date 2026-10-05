@@ -12,12 +12,13 @@
 <!-- HERO SECTION -->
 <div align="center">
 
-  <h3><strong>Software Engineer | Frontend Developer | Unity Game Developer</strong></h3>
-  <p><i>Building modern web experiences with React and JavaScript.</i></p>
+  <h3><strong>Web Developer | React.js | JavaScript | Unity</strong></h3>
+  <p><i>Building modern web applications with React, JavaScript & Node.js.</i></p>
 
   <p>
     <a href="https://github.com/Muneeb-Ur-Rehman4561"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://muneeburrehmansportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00A6FB?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:muneeburrehman4561@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Muneeb-Ur-Rehman4561&color=00FFCC&style=flat-square" alt="Visitor Counter" />
@@ -34,10 +35,11 @@
 
 ### 👨‍💻 Who am I?
 
-* 💻 **Frontend Developer** — I build things for the web with **React** and **JavaScript**.
-* 🌱 Currently learning **modern JavaScript, the React ecosystem, and responsive web design.**
-* 🎮 **Unity Game Developer** exploring interactive experiences.
-* 📍 Based in **Islamabad**.
+* 💻 **Web Developer** — I build full web applications with **React**, **JavaScript** and **Node.js**.
+* 💼 Individual Consultant – Software Development @ **Welthungerhilfe (WHH)**.
+* 🎓 BSCS from **SZABIST**, Islamabad.
+* 🎮 **Unity Game Developer** — built a 3D racing game (Racer 3D).
+* 📍 Based in **Islamabad, Pakistan**.
 
 <blockquote>
   <p align="left">
@@ -67,20 +69,20 @@
       <img src="https://skillicons.dev/icons?i=javascript,html,css" />
       <br/><br/>
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,materialui" />
       <br/><br/>
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs" />
+      <h3>⚙️ Backend & Data</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres,mysql" />
     </td>
     <td width="50%" valign="top">
       <h3>🎮 Game Development</h3>
       <p>Unity • C# • Game Design</p>
       <br/>
       <h3>🛠️ Tools & Platforms</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,netlify" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
       <br/><br/>
-      <h3>📚 Currently Learning</h3>
-      <p>Modern JavaScript • React Ecosystem • Responsive Web Design</p>
+      <h3>💼 Currently</h3>
+      <p>Building a Financial Management System @ WHH</p>
     </td>
   </tr>
 </table>
@@ -91,57 +93,77 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔭 <a href="https://github.com/Muneeb-ur-Rehman4561/testRepo">testRepo</a></h3>
-      <p>React / Create React App playground for experimenting with components and ideas.</p>
-      <p>
-        <code>React</code> <code>JavaScript</code>
-      </p>
-      <ul>
-        <li>✔ Component experiments</li>
-        <li>✔ Learning playground</li>
-      </ul>
+      <h3>🏦 FIRMS – Financial Info & Record Management System</h3>
+      <p>Financial management & reporting solution for WHH — budget control, fund requests, voucher management, document archiving.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>PostgreSQL</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/Muneeb-ur-Rehman4561/Muneeb-ur-Rehman4561.github.io">Portfolio Site</a></h3>
-      <p>Web coursework & experiments — live portfolio showcasing projects.</p>
-      <p>
-        <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-      </p>
-      <ul>
-        <li>✔ Live at muneeburrehmansportfolio.netlify.app</li>
-        <li>✔ Coursework & experiments</li>
-      </ul>
+      <h3>🌾 Kisan App – Crop Management</h3>
+      <p>Android app with AI-based crop disease detection, crop records, marketplace, weather forecasting & multilingual support.</p>
+      <p><code>Android</code> <code>AI</code> <code>Firebase</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 PropEx.PK – Real Estate Web Platform</h3>
+      <p>Responsive platform for browsing, buying, selling and renting properties.</p>
+      <p><code>React</code> <code>JavaScript</code> <code>Bootstrap</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥩 Premium Meat – E-Commerce Website</h3>
+      <p>Responsive e-commerce website focused on product presentation and online shopping workflows.</p>
+      <p><code>React</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏎️ Racer 3D – Unity Racing Game</h3>
+      <p>3D racing game with multiple levels, environments and interactive driving mechanics.</p>
+      <p><code>Unity</code> <code>C#</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔭 More on my portfolio</h3>
+      <p>Live demos, screenshots and details of everything I've built.</p>
+      <p><a href="https://muneeburrehmansportfolio.netlify.app/">muneeburrehmansportfolio.netlify.app →</a></p>
     </td>
   </tr>
 </table>
 
 <!-- EXPERIENCE -->
-<h2>🚀 Experience</h2>
-<p>On my journey as a developer, I have been building and learning across the modern web.</p>
+<h2>💼 Experience</h2>
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Frontend Development</h3>
+    <td width="50%" valign="top">
+      <h3>💻 Individual Consultant – Software Development</h3>
+      <p><i>Welthungerhilfe (WHH) — Islamabad | Feb 2026 – Present</i></p>
       <ul>
-        <li>React Components</li>
-        <li>JavaScript (ES6+)</li>
-        <li>Responsive Web Design</li>
-        <li>HTML5 & CSS3</li>
+        <li>Designing, developing & testing a financial management system</li>
+        <li>Budget control, fund requests, vouchers & reporting workflows</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h3>🎮 Game Development</h3>
+    <td width="50%" valign="top">
+      <h3>🌐 Junior Software Developer</h3>
+      <p><i>AioDock (Private) Ltd. — Islamabad | Aug 2023 – Feb 2024</i></p>
       <ul>
-        <li>Unity Engine</li>
-        <li>Interactive Experiences</li>
+        <li>Built & maintained responsive web apps with React.js</li>
+        <li>Features, debugging & usability improvements</li>
       </ul>
     </td>
-    <td width="34%" valign="top">
-      <h3>🛠️ Tools & Workflow</h3>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 Frontend Web Developer Intern</h3>
+      <p><i>Digital Applications — Remote | Aug 2022 – Oct 2022</i></p>
       <ul>
-        <li>Git & GitHub</li>
-        <li>Netlify Deployments</li>
+        <li>Responsive UI components with HTML, CSS, JavaScript & React</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <p><i>BSCS — SZABIST, Islamabad (2019 – 2023)</i></p>
+      <ul>
+        <li>CGPA 3.22 / 4.00</li>
       </ul>
     </td>
   </tr>
