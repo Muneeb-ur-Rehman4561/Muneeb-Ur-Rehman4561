@@ -159,9 +159,9 @@
   </p>
   <p>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-      <img src="assets/github-snake.svg" alt="Snake Contribution Graph" width="97%" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muneeb-Ur-Rehman4561/Muneeb-Ur-Rehman4561/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muneeb-Ur-Rehman4561/Muneeb-Ur-Rehman4561/output/github-snake.svg" />
+      <img src="https://raw.githubusercontent.com/Muneeb-Ur-Rehman4561/Muneeb-Ur-Rehman4561/output/github-snake.svg" alt="Snake Contribution Graph" width="97%" />
     </picture>
   </p>
 </div>
