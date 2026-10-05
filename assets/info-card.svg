@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="420" viewBox="0 0 500 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+  <linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#111722"/>
+    <stop offset="1" stop-color="#0d1117"/>
+  </linearGradient>
+</defs>
+<rect width="500" height="420" rx="12" fill="url(#ibg)"/>
+<rect x="0.5" y="0.5" width="499" height="419" rx="12" fill="none" stroke="#30363d" stroke-width="1"/>
+<line x1="0" y1="30" x2="500" y2="30" stroke="#30363d"/>
+<text x="250" y="19" fill="#7d8590" font-size="11" text-anchor="middle">Muneeb-Ur-Rehman4561@github:~$ neofetch</text>
+
+<g font-size="13">
+  <text x="14" y="58"><tspan fill="#3fb950">$</tspan> <tspan fill="#c9d1d9">neofetch</tspan></text>
+
+  <g font-size="12.5">
+    <text x="14" y="92"><tspan fill="#58a6ff">Muneeb-ur-Rehman</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#58a6ff">github</tspan></text>
+    <text x="14" y="108" fill="#30363d">-----------------</text>
+
+    <text x="14" y="132"><tspan fill="#3fb950">Role</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Frontend Developer</tspan></text>
+    <text x="14" y="152"><tspan fill="#3fb950">Stack</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">React, JavaScript, HTML, CSS</tspan></text>
+    <text x="14" y="172"><tspan fill="#3fb950">Learning</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Modern JS, React Ecosystem</tspan></text>
+    <text x="14" y="192"><tspan fill="#3fb950">Location</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Islamabad</tspan></text>
+    <text x="14" y="212"><tspan fill="#3fb950">Portfolio</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#79c0ff">muneeburrehmansportfolio.netlify.app</tspan></text>
+    <text x="14" y="232"><tspan fill="#3fb950">Repos</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">3 public repositories</tspan></text>
+    <text x="14" y="252"><tspan fill="#3fb950">Focus</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Responsive Web Design</tspan></text>
+    <text x="14" y="272"><tspan fill="#3fb950">Game Dev</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#c9d1d9">Unity</tspan></text>
+    <text x="14" y="292"><tspan fill="#3fb950">Motto</tspan><tspan fill="#8b949e">: </tspan><tspan fill="#d2a8ff">"Build, break, learn, repeat."</tspan></text>
+  </g>
+
+  <text x="14" y="340"><tspan fill="#c9d1d9">*</tspan> <tspan fill="#8b949e">Currently crafting web experiences</tspan></text>
+  <text x="14" y="362"><tspan fill="#c9d1d9">*</tspan> <tspan fill="#8b949e">Learning something new every day</tspan></text>
+
+  <text x="14" y="396"><tspan fill="#3fb950">$</tspan> <tspan fill="#c9d1d9">_</tspan></text>
+</g>
+</svg>
