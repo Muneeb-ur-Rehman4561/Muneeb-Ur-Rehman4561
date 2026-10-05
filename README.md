@@ -158,6 +158,10 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeb-Ur-Rehman4561&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
   </p>
   <p>
-    <img src="assets/github-snake.svg" alt="Snake Contribution Graph" width="97%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
+      <img src="assets/github-snake.svg" alt="Snake Contribution Graph" width="97%" />
+    </picture>
   </p>
 </div>
